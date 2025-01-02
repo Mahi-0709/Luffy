@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## version 2
 
 ##def division(x,y):
@@ -5,3 +6,13 @@
 
 ## def area_rect(l,b)
    return l*b
+=======
+ version from demo branch
+
+## def division(x,y):
+   return x/y
+
+## def rect(l,b):
+   return l*b
+   return2*(l,b)
+>>>>>>> demo
